@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Abhishek Gupta (GhostRider987)
 
 ## About Me
-I am a pre-final year undergraduate student pursuing BTech in Computer Science and Engineering. Currently, I'm passionate about learning full-stack web development to enhance my skills and explore the vast possibilities it offers. I have a strong foundation in HTML, CSS, and JavaScript, along with proficiency in data structures and algorithms using C++. I also have knowledge of C, Java, and Python.
+I am a final year undergraduate student pursuing BTech in Computer Science and Engineering. Currently, I'm passionate about learning full-stack web development to enhance my skills and explore the vast possibilities it offers. I have a strong foundation in HTML, CSS, and JavaScript, along with proficiency in data structures and algorithms using C++. I also have knowledge of C, Java, and Python.
 
 
 ## Skills
